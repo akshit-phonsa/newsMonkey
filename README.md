@@ -25,8 +25,6 @@ NewsMonkey is a modern, responsive news application built with React that delive
 ### Mobile Responsive
 ![Mobile View](./screenshots/mobile.png)
 
-> **Note**: To add screenshots, create a `screenshots` folder in the root directory and add your images there. Then they will be displayed above.
-
 ## 🛠️ Tech Stack
 
 - **Frontend Framework**: React 18.2.0
